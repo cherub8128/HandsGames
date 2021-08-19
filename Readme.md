@@ -2,6 +2,8 @@
 
 구글 플레이 링크: <https://play.google.com/store/apps/details?id=com.TheHaGo.HandsGames>
 
+플레이 영상: <https://youtu.be/6EQ37lur6Z0>
+
 ## 만족스러운 점
 
 1. 이벤트를 이용한 멀티 터치 구현

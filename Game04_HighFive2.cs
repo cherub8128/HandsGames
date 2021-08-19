@@ -76,7 +76,7 @@ public class Game04_HighFive2 : MonoBehaviour
     }
     private void scoring(int i)
     {
-        if (picked%6==i)
+        if (picked%7==i)
         {
             if (i!=6) Effect.SetTrigger("correct");
             if (i==0 || i==1) SoundManager.Instance.playSFX(0);
